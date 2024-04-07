@@ -1,0 +1,34 @@
+{
+  "name": "laraswagger",
+  "version": "1.0.1",
+  "description": "A package for converting JSON exported from Insomnia or postman to Swagger format (json and/or annotation) to facilitate the writing or generation of api rest documentation developed with Laravel,",
+  "bin": {
+    "laraswagger": "laraswagger.mjs"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bamagid/laraswagger.git"
+  },
+  "keywords": [
+    "insomnia",
+    "postman",
+    "swagger",
+    "docs",
+    "laravel",
+    "documentation",
+    "laraswagger"
+  ],
+  "author": "Magid Ba",
+  "license": "SEE LICENSE IN License.md",
+  "homepage": "https://github.com/bamagid/laraswagger#readme",
+  "bugs": {
+    "url": "https://github.com/bamagid/laraswagger/issues"
+  },
+  "engines": {
+    "node": ">=18"
+  },
+  "dependencies": {
+    "open": "10.0.3"
+  },
+  "devDependencies": {}
+}
